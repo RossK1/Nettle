@@ -1,3 +1,6 @@
+title: Project Nettle
+description: Cloud-based control of water heater thermostat
+
 ## Project Nettle Presentation
 
 You can use the [editor on GitHub](https://github.com/RossK1/Nettle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
