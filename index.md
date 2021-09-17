@@ -1,5 +1,6 @@
 ---
-title: Project Nettle
+layout: default,
+title: Project Nettle,
 description: Cloud-based control of water heater thermostat
 ---
 
